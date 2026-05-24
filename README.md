@@ -10,8 +10,8 @@ This repository contains skill check exercises focused on mastering various loop
 
 | Skill Check | Assignment | Solution | Topics |
 |---|---|---|---|
-| [Loop Work #4](#loop-work-4) | [Loop work #4.md](Loop%20work%20%234.md) | [Loop work #4.py](Loop%20work%20%234.py) | Basic iteration, range(), accumulators, conditionals |
-| [Loop Work #5](#loop-work-5) | [Loop Work #5.md](Loop%20Work%20%235.md) | [Loop Work #5.py](Loop%20Work%20%235.py) | Accumulator pattern, real-world scenarios |
+| [For loop work #1](#for-loop-work-1) | [For loop work # 1.md](For%20loop%20work%20%23%201.md) | [For loop work #1.py](For%20loop%20work%20%231.py) | Basic iteration, range(), accumulators, conditionals |
+| [For loop Work #2](#for-loop-work-2) | [For loop Work #2.md](For%20loop%20Work%20%232.md) | [For loop Work #2.py](For%20loop%20Work%20%232.py) | Accumulator pattern, real-world scenarios |
 
 ## Repository Structure
 
@@ -21,14 +21,14 @@ Each skill check is organized with:
 
 ### Current Skill Checks
 
-#### Loop Work #4
+#### For loop work #1
 Fundamental `for` loop concepts covering:
 - Basic list iteration
 - Working with `range()`
 - The accumulator pattern
 - Combining loops with conditionals
 
-#### Loop Work #5
+#### For loop Work #2
 Practical application of loop fundamentals:
 - Real-world scenario-based challenges
 - Accumulator pattern in context
@@ -61,14 +61,14 @@ Practical application of loop fundamentals:
 To run any of the Python files:
 
 ```bash
-python "Loop work #4.py"
-python "Loop Work #5.py"
+python "For loop work #1.py"
+python "For loop Work #2.py"
 ```
 
 ## Contributing
 
 To add new skill checks:
-1. Create a new file with the naming convention `Loop Work #X.md` (assignment) and `Loop Work #X.py` (solution)
+1. Create new files with the naming convention `For loop Work #X.md` (assignment) and `For loop Work #X.py` (solution)
 2. Write your assignment and solutions following the existing format
 3. Update the [Quick Access](#quick-access) table with the new skill check
 4. Add a new subsection under [Current Skill Checks](#current-skill-checks) describing the topics covered
