@@ -6,19 +6,33 @@ A Python repository for practicing and testing **loop** skills in Python through
 
 This repository contains skill check exercises focused on mastering various looping concepts and patterns in Python. The exercises are organized by topic and progress in difficulty, covering fundamental to advanced loop-related skills.
 
+## Quick Access
+
+| Skill Check | Assignment | Solution | Topics |
+|---|---|---|---|
+| [Loop Work #4](#loop-work-4) | [Loop work #4.md](Loop%20work%20%234.md) | [Loop work #4.py](Loop%20work%20%234.py) | Basic iteration, range(), accumulators, conditionals |
+| [Loop Work #5](#loop-work-5) | [Loop Work #5.md](Loop%20Work%20%235.md) | [Loop Work #5.py](Loop%20Work%20%235.py) | Accumulator pattern, real-world scenarios |
+
 ## Repository Structure
 
-Each skill check is organized in its own directory containing:
+Each skill check is organized with:
 - **`.md` file** - The skill check assignment with tasks to complete
 - **`.py` file** - Solution file with completed implementations
 
 ### Current Skill Checks
 
-- **Loop Work #4** - Fundamental `for` loop concepts
-  - Basic list iteration
-  - Working with `range()`
-  - The accumulator pattern
-  - Combining loops with conditionals
+#### Loop Work #4
+Fundamental `for` loop concepts covering:
+- Basic list iteration
+- Working with `range()`
+- The accumulator pattern
+- Combining loops with conditionals
+
+#### Loop Work #5
+Practical application of loop fundamentals:
+- Real-world scenario-based challenges
+- Accumulator pattern in context
+- Calculating totals and aggregations
 
 ## Key Concepts Covered
 
@@ -28,10 +42,11 @@ Each skill check is organized in its own directory containing:
 - **Conditional logic in loops** - Using `if/else` statements within loops
 - **Loop variable scope** - Understanding how loop variables work
 - **Loop control flow** - Break, continue, and other control mechanisms
+- **Real-world applications** - Practical scenarios using loops
 
 ## How to Use
 
-1. Navigate to a skill check directory
+1. Select a skill check from the [Quick Access](#quick-access) table above
 2. Review the assignment in the `.md` file
 3. Write your solutions following the specified requirements
 4. Compare your solutions with the completed examples in the `.py` file
@@ -46,16 +61,17 @@ Each skill check is organized in its own directory containing:
 To run any of the Python files:
 
 ```bash
-python Loop\ work\ \#4.py
+python "Loop work #4.py"
+python "Loop Work #5.py"
 ```
 
 ## Contributing
 
 To add new skill checks:
-1. Create a new directory with a descriptive name (e.g., `loop_work_5/`, `nested_loops/`)
-2. Create a `.md` file with the assignment and tasks
-3. Create a corresponding `.py` file with the solutions
-4. Update this README with the new skill check details
+1. Create a new file with the naming convention `Loop Work #X.md` (assignment) and `Loop Work #X.py` (solution)
+2. Write your assignment and solutions following the existing format
+3. Update the [Quick Access](#quick-access) table with the new skill check
+4. Add a new subsection under [Current Skill Checks](#current-skill-checks) describing the topics covered
 
 ---
 
