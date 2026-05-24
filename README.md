@@ -8,10 +8,10 @@ This repository contains skill check exercises focused on mastering various loop
 
 ## Quick Access
 
-| Skill Check | Assignment | Solution | Topics |
-|---|---|---|---|
-| [For loop work #1](#for-loop-work-1) | [For loop work # 1.md](For%20loop%20work%20%23%201.md) | [For loop work #1.py](For%20loop%20work%20%231.py) | Basic iteration, range(), accumulators, conditionals |
-| [For loop Work #2](#for-loop-work-2) | [For loop Work #2.md](For%20loop%20Work%20%232.md) | [For loop Work #2.py](For%20loop%20Work%20%232.py) | Accumulator pattern, real-world scenarios |
+| # | Description | Topics |
+|---|---|---|
+| [#1](#for-loop-work-1) | Fundamental for loop concepts | Basic iteration, range(), accumulators, conditionals |
+| [#2](#for-loop-work-2) | Practical applications | Accumulator pattern, real-world scenarios |
 
 ## Repository Structure
 
@@ -22,6 +22,8 @@ Each skill check is organized with:
 ### Current Skill Checks
 
 #### For loop work #1
+**Files:** [For loop work # 1.md](For%20loop%20work%20%23%201.md) | [For loop work #1.py](For%20loop%20work%20%231.py)
+
 Fundamental `for` loop concepts covering:
 - Basic list iteration
 - Working with `range()`
@@ -29,6 +31,8 @@ Fundamental `for` loop concepts covering:
 - Combining loops with conditionals
 
 #### For loop Work #2
+**Files:** [For loop Work #2.md](For%20loop%20Work%20%232.md) | [For loop Work #2.py](For%20loop%20Work%20%232.py)
+
 Practical application of loop fundamentals:
 - Real-world scenario-based challenges
 - Accumulator pattern in context
@@ -47,10 +51,11 @@ Practical application of loop fundamentals:
 ## How to Use
 
 1. Select a skill check from the [Quick Access](#quick-access) table above
-2. Review the assignment in the `.md` file
-3. Write your solutions following the specified requirements
-4. Compare your solutions with the completed examples in the `.py` file
-5. Run the code to verify outputs
+2. Click the number to jump to that skill check
+3. Click the file links to access the assignment and solution
+4. Write your solutions following the specified requirements
+5. Compare your solutions with the completed examples in the `.py` file
+6. Run the code to verify outputs
 
 ## Language
 
@@ -70,8 +75,8 @@ python "For loop Work #2.py"
 To add new skill checks:
 1. Create new files with the naming convention `For loop Work #X.md` (assignment) and `For loop Work #X.py` (solution)
 2. Write your assignment and solutions following the existing format
-3. Update the [Quick Access](#quick-access) table with the new skill check
-4. Add a new subsection under [Current Skill Checks](#current-skill-checks) describing the topics covered
+3. Add a new row to the [Quick Access](#quick-access) table
+4. Add a new subsection under [Current Skill Checks](#current-skill-checks) with file links and topics
 
 ---
 
