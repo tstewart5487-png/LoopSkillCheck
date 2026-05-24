@@ -75,4 +75,14 @@ To add new skill checks:
 
 ---
 
+## Disclaimer
+
+**About this Repository:**
+
+- This README was generated with AI assistance (GitHub Copilot) based on prompts from the repository creator. The exercises, solutions, and structure were developed collaboratively.
+- All skill checks in this repository cover **basic but necessary** foundational concepts in Python loop programming. These exercises are designed to build core competencies that are essential for all Python developers.
+- This repository is created by and for beginners learning Python. If you're new to programming or loops, this is an appropriate resource for you. If you're looking for advanced loop concepts or optimization techniques, you may want to explore other resources.
+
+---
+
 **Note:** This repository is designed to be expanded with additional skill checks covering different aspects of loop programming in Python.
