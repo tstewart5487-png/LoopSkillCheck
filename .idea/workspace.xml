@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="for Loop work #3 done">
-      <change afterPath="$PROJECT_DIR$/Loop work #4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop work #4.py" afterDir="false" />
-    </list>
+    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="for Loop work #4 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779546257090</updated>
       <workItem from="1779546258140" duration="866000" />
-      <workItem from="1779626915385" duration="4028000" />
+      <workItem from="1779626915385" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -135,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779675038424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="for Loop work #4 done">
+      <option name="closed" value="true" />
+      <created>1779675693323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779675693323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +161,8 @@
     <MESSAGE value="Fresh start on a Sunday basic practice" />
     <MESSAGE value="Updated names of folders to make it cleaner to read." />
     <MESSAGE value="for Loop work #3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="for Loop work #3 done" />
+    <MESSAGE value="for Loop work #4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="for Loop work #4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -170,7 +176,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__3.coverage" NAME="For loop work #3 Coverage Results" MODIFIED="1779675401171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__3.coverage" NAME="For loop work #3 Coverage Results" MODIFIED="1779675476023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Loop_Work__5.coverage" NAME="Loop Work #5 Coverage Results" MODIFIED="1779627563174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
