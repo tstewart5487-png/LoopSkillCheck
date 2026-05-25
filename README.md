@@ -4,7 +4,7 @@ A Python repository for practicing and testing **loop** skills in Python through
 
 ## Overview
 
-This repository contains skill check exercises focused on mastering various looping concepts and patterns in Python. The exercises are organized by topic and progress in difficulty, covering fundamental to advanced loop-related skills.
+This repository contains skill check exercises focused on mastering various looping concepts and patterns in Python. The exercises are organized by topic and progress in difficulty, covering fundamental concepts to more advanced patterns.
 
 ## Quick Access
 
@@ -12,6 +12,8 @@ This repository contains skill check exercises focused on mastering various loop
 |---|---|---|
 | [#1](#for-loop-work-1) | Fundamental for loop concepts | Basic iteration, range(), accumulators, conditionals |
 | [#2](#for-loop-work-2) | Practical applications | Accumulator pattern, real-world scenarios |
+| [#3](#for-loop-work-3) | Data cleaning with type() | Type checking, data validation |
+| [#4](#for-loop-work-4) | Inventory data validation | Type checking, counting, data integrity |
 
 ## Repository Structure
 
@@ -38,6 +40,24 @@ Practical application of loop fundamentals:
 - Accumulator pattern in context
 - Calculating totals and aggregations
 
+#### For loop work #3
+**Files:** [For loop work #3.md](For%20loop%20work%20%233.md) | [For loop work #3.py](For%20loop%20work%20%233.py)
+
+Data cleaning with type checking:
+- Using `type()` function for type checking
+- Data validation and noise reduction
+- Filtering non-numeric placeholder values
+- Essential for AI/ML data preprocessing
+
+#### For loop work #4
+**Files:** [For loop work #4.md](For%20loop%20work%20%234.md) | [For loop work #4.py](For%20loop%20work%20%234.py)
+
+Inventory data validation:
+- Verifying data integrity through type checking
+- Counting valid numeric entries (`int` or `float`)
+- Mixed-type list processing
+- Real-world data cleaning scenarios
+
 ## Key Concepts Covered
 
 - **For loops with sequences** - Iterating through lists, tuples, strings
@@ -46,7 +66,9 @@ Practical application of loop fundamentals:
 - **Conditional logic in loops** - Using `if/else` statements within loops
 - **Loop variable scope** - Understanding how loop variables work
 - **Loop control flow** - Break, continue, and other control mechanisms
-- **Real-world applications** - Practical scenarios using loops
+- **Type checking** - Using `type()` to validate data types
+- **Data validation** - Filtering and cleaning mixed-type data
+- **Real-world applications** - Practical scenarios using loops for data processing
 
 ## How to Use
 
@@ -68,12 +90,14 @@ To run any of the Python files:
 ```bash
 python "For loop work #1.py"
 python "For loop Work #2.py"
+python "For loop work #3.py"
+python "For loop work #4.py"
 ```
 
 ## Contributing
 
 To add new skill checks:
-1. Create new files with the naming convention `For loop Work #X.md` (assignment) and `For loop Work #X.py` (solution)
+1. Create new files with the naming convention `For loop work #X.md` (assignment) and `For loop work #X.py` (solution)
 2. Write your assignment and solutions following the existing format
 3. Add a new row to the [Quick Access](#quick-access) table
 4. Add a new subsection under [Current Skill Checks](#current-skill-checks) with file links and topics
@@ -85,8 +109,8 @@ To add new skill checks:
 **About this Repository:**
 
 - This README was generated with AI assistance (GitHub Copilot) based on prompts from the repository creator. The exercises, solutions, and structure were developed collaboratively.
-- All skill checks in this repository cover **basic but necessary** foundational concepts in Python loop programming. These exercises are designed to build core competencies that are essential for all Python developers.
-- This repository is created by and for beginners learning Python. If you're new to programming or loops, this is an appropriate resource for you. If you're looking for advanced loop concepts or optimization techniques, you may want to explore other resources.
+- All skill checks in this repository cover **basic but necessary** foundational concepts in Python loop programming. These exercises are designed to build core competencies that are essential for data processing and automation.
+- This repository is created by and for beginners learning Python. If you're new to programming or loops, this is an appropriate resource for you. If you're looking for advanced loop concepts or optimizations, you may want to explore additional resources.
 
 ---
 
