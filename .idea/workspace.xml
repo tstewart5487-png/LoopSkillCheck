@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="for Loop work #4 done" />
+    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="name update">
+      <change afterPath="$PROJECT_DIR$/For loop work #5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For loop work #5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +50,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.For loop work #3.executor": "Run",
+    "Python.For loop work #5.executor": "Run",
     "Python.Loop Work #5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -106,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779546257090</updated>
       <workItem from="1779546258140" duration="866000" />
-      <workItem from="1779626915385" duration="4363000" />
+      <workItem from="1779626915385" duration="6327000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -140,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779675693323</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="name update">
+      <option name="closed" value="true" />
+      <created>1779675923653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779675923653</updated>
+    </task>
+    <task id="LOCAL-00006" summary="name update">
+      <option name="closed" value="true" />
+      <created>1779676001155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779676001156</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +183,8 @@
     <MESSAGE value="Updated names of folders to make it cleaner to read." />
     <MESSAGE value="for Loop work #3 done" />
     <MESSAGE value="for Loop work #4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="for Loop work #4 done" />
+    <MESSAGE value="name update" />
+    <option name="LAST_COMMIT_MESSAGE" value="name update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,6 +198,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__5.coverage" NAME="For loop work #5 Coverage Results" MODIFIED="1779677705354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__3.coverage" NAME="For loop work #3 Coverage Results" MODIFIED="1779675476023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Loop_Work__5.coverage" NAME="Loop Work #5 Coverage Results" MODIFIED="1779627563174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
