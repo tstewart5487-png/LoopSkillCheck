@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="name update">
-      <change afterPath="$PROJECT_DIR$/For loop work #5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For loop work #5.py" afterDir="false" />
+    <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="#5 done">
+      <change afterPath="$PROJECT_DIR$/Columns in DataFrames/Column skill check #1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Columns in DataFrames/Column skill check #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For loop work #6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For loop work #6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +51,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Column skill check #1.executor": "Run",
     "Python.For loop work #3.executor": "Run",
     "Python.For loop work #5.executor": "Run",
+    "Python.For loop work #6.executor": "Run",
     "Python.Loop Work #5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -111,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779546257090</updated>
       <workItem from="1779546258140" duration="866000" />
-      <workItem from="1779626915385" duration="6327000" />
+      <workItem from="1779626915385" duration="16763000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -161,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779676001156</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="#5 done">
+      <option name="closed" value="true" />
+      <created>1779677723742</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779677723742</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +196,8 @@
     <MESSAGE value="for Loop work #3 done" />
     <MESSAGE value="for Loop work #4 done" />
     <MESSAGE value="name update" />
-    <option name="LAST_COMMIT_MESSAGE" value="name update" />
+    <MESSAGE value="#5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="#5 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,7 +212,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__5.coverage" NAME="For loop work #5 Coverage Results" MODIFIED="1779677705354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Loop_work__4_md$Column_skill_check__1.coverage" NAME="Column skill check #1 Coverage Results" MODIFIED="1780054537711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__3.coverage" NAME="For loop work #3 Coverage Results" MODIFIED="1779675476023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__6.coverage" NAME="For loop work #6 Coverage Results" MODIFIED="1779717286223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Loop_Work__5.coverage" NAME="Loop Work #5 Coverage Results" MODIFIED="1779627563174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
