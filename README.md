@@ -14,6 +14,7 @@ This repository contains skill check exercises focused on mastering various loop
 | [#2](#for-loop-work-2) | Practical applications | Accumulator pattern, real-world scenarios |
 | [#3](#for-loop-work-3) | Data cleaning with type() | Type checking, data validation |
 | [#4](#for-loop-work-4) | Inventory data validation | Type checking, counting, data integrity |
+| [#5](#for-loop-work-5) | Data deduplication & validation | Duplicate removal, unique filtering, advanced data cleaning |
 
 ## Repository Structure
 
@@ -58,6 +59,16 @@ Inventory data validation:
 - Mixed-type list processing
 - Real-world data cleaning scenarios
 
+#### For loop work #5
+**Files:** [For loop work #5.md](For%20loop%20work%20%235.md) | [For loop work #5.py](For%20loop%20work%20%235.py)
+
+Data deduplication & validation:
+- Identifying and removing duplicate entries
+- Filtering incorrect data types
+- Building unique data collections with `not in` operator
+- Advanced data preprocessing for machine learning
+- Essential for handling raw, messy datasets
+
 ## Key Concepts Covered
 
 - **For loops with sequences** - Iterating through lists, tuples, strings
@@ -68,6 +79,7 @@ Inventory data validation:
 - **Loop control flow** - Break, continue, and other control mechanisms
 - **Type checking** - Using `type()` to validate data types
 - **Data validation** - Filtering and cleaning mixed-type data
+- **Deduplication** - Removing duplicate entries with membership testing (`not in`)
 - **Real-world applications** - Practical scenarios using loops for data processing
 
 ## How to Use
@@ -92,6 +104,7 @@ python "For loop work #1.py"
 python "For loop Work #2.py"
 python "For loop work #3.py"
 python "For loop work #4.py"
+python "For loop work #5.py"
 ```
 
 ## Contributing
