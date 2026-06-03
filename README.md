@@ -6,9 +6,8 @@ A Python repository for practicing and testing **loop** skills in Python and **D
 
 - [Overview](#overview)
 - [Quick Access](#quick-access)
-- [Repository Structure](#repository-structure)
-- [Loop Skill Checks](#loop-skill-checks)
-- [DataFrame Skill Checks](#dataframe-skill-checks)
+- **🔄 [Loop Skill Checks](#loop-skill-checks)** ← *Master Python loops and iteration*
+- **📊 [DataFrame Skill Checks](#dataframe-skill-checks)** ← *Master pandas and data transformation*
 - [Key Concepts Covered](#key-concepts-covered)
 - [How to Use](#how-to-use)
 - [Getting Started](#getting-started)
