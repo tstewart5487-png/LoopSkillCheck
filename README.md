@@ -40,6 +40,7 @@ The exercises are organized by topic and progress in difficulty, covering fundam
 | # | Description | Topics |
 |---|---|---|
 | [#1](#column-skill-check-1) | Column operations in DataFrames | Adding columns, calculations, data manipulation |
+| [#2](#splitting-and-combining-columns) | Splitting and combining columns | String splitting, column merging, data restructuring |
 
 ---
 
@@ -50,7 +51,9 @@ LoopSkillCheck/
 ├── .idea/                                          # PyCharm IDE configuration
 ├── Columns in DataFrames/                          # DataFrame column operations
 │   ├── Column skill check #1.md
-│   └── Column skill check #1.py
+│   ├── Column skill check #1.py
+│   ├── Splitting and Combining Columns.md
+│   └── Splitting and Combining Columns.py
 ├── For loop work # 1.md
 ├── For loop work #1.py
 ├── For loop Work #2.md
@@ -144,6 +147,18 @@ Column operations in DataFrames:
 - Data manipulation and transformation
 - Working with pandas DataFrames
 
+### Splitting and Combining Columns
+**Files:** [Splitting and Combining Columns.md](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns.md) | [Splitting and Combining Columns.py](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns.py)
+
+**Location:** [Columns in DataFrames](Columns%20in%20DataFrames) directory
+
+String manipulation with DataFrame columns:
+- Splitting columns by delimiters
+- Combining multiple columns into one
+- Data restructuring and reshaping
+- Advanced text processing with pandas
+- Real-world data transformation scenarios
+
 ---
 
 ## Key Concepts Covered
@@ -166,6 +181,8 @@ Column operations in DataFrames:
 - **Column manipulation** - Adding and modifying DataFrame columns
 - **Data calculations** - Performing operations on DataFrame data
 - **Data transformation** - Reshaping and restructuring data
+- **String splitting and joining** - Advanced text processing with columns
+- **Column combination** - Merging multiple columns into single columns
 
 ---
 
@@ -201,6 +218,7 @@ python "For loop work #6.py"
 
 # DataFrame skill checks
 python "Columns in DataFrames/Column skill check #1.py"
+python "Columns in DataFrames/Splitting and Combining Columns.py"
 ```
 
 ---
@@ -219,6 +237,7 @@ python "Columns in DataFrames/Column skill check #1.py"
 
 ### DataFrames
 7. [Column Skill Check #1](Columns%20in%20DataFrames/Column%20skill%20check%20%231.py) - DataFrame operations
+8. [Splitting and Combining Columns](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns.py) - Advanced column manipulation
 
 ---
 
@@ -226,7 +245,7 @@ python "Columns in DataFrames/Column skill check #1.py"
 
 To add new skill checks:
 1. Create new files with the naming convention `For loop work #X.md` (assignment) and `For loop work #X.py` (solution)
-2. Or for DataFrame content: `Column skill check #X.md` and `Column skill check #X.py`
+2. Or for DataFrame content: `Column skill check #X.md` and `Column skill check #X.py` or other relevant names like `Splitting and Combining Columns.md`
 3. Write your assignment and solutions following the existing format
 4. Add a new row to the appropriate [Quick Access](#quick-access) table
 5. Add a new subsection under [For Loop Skill Checks](#for-loop-skill-checks) or [DataFrame Skill Checks](#dataframe-skill-checks)
@@ -238,8 +257,8 @@ To add new skill checks:
 **About this Repository:**
 
 - This README was generated with AI assistance (GitHub Copilot) based on prompts from the repository creator. The exercises, solutions, and structure were developed collaboratively.
-- All skill checks in this repository cover **basic but necessary** foundational concepts in Python loop programming and data manipulation. These exercises are designed to build core competencies that are essential for data science and software development.
-- This repository is created by and for beginners learning Python. If you're new to programming or loops, this is an appropriate resource for you. If you're looking for advanced loop concepts or expert-level challenges, you may want to explore additional resources.
+- All skill checks in this repository cover **basic but necessary** foundational concepts in Python loop programming and data manipulation. These exercises are designed to build core competencies.
+- This repository is created by and for beginners learning Python. If you're new to programming or loops, this is an appropriate resource for you. If you're looking for advanced loop concepts or advanced data science techniques, you may need to seek additional resources.
 
 ---
 
