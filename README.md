@@ -42,6 +42,8 @@ The exercises are organized by skill type and progress in difficulty, covering f
 |---|---|---|
 | [#1](#column-skill-check-1) | Column operations in DataFrames | Adding columns, calculations, data manipulation |
 | [#2](#splitting-and-combining-columns) | Splitting and combining columns | String splitting, column merging, data restructuring |
+| [#3](#splitting-and-combining-columns-2) | Advanced column operations | Complex string operations, multi-column transformations |
+| [#4](#splitting-and-combining-columns-3) | Expert-level column manipulation | Advanced pandas techniques, real-world scenarios |
 
 ---
 
@@ -70,7 +72,11 @@ LoopSkillCheck/
 │   ├── Column skill check #1.md                   # Assignment
 │   ├── Column skill check #1.py                   # Solution
 │   ├── Splitting and Combining Columns.md
-│   └── Splitting and Combining Columns.py
+│   ├── Splitting and Combining Columns.py
+│   ├── Splitting and Combining Columns #2.md
+│   ├── Splitting and Combining Columns #2.py
+│   ├── Splitting and Combining Columns #3.md
+│   └── Splitting and Combining Columns #3.py
 │
 ├── main.py                                         # PyCharm template file
 └── README.md                                       # This file
@@ -163,6 +169,26 @@ String manipulation with DataFrame columns:
 - Advanced text processing with pandas
 - Real-world data transformation scenarios
 
+### Splitting and Combining Columns #2
+**Files:** [Splitting and Combining Columns #2.md](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%232.md) | [Splitting and Combining Columns #2.py](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%232.py)
+
+Advanced column transformation techniques:
+- Complex string splitting operations
+- Multi-column data transformations
+- Conditional column combining
+- Advanced pandas string methods
+- Real-world data preparation scenarios
+
+### Splitting and Combining Columns #3
+**Files:** [Splitting and Combining Columns #3.md](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%233.md) | [Splitting and Combining Columns #3.py](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%233.py)
+
+Expert-level column manipulation:
+- Complex multi-step transformations
+- Edge case handling in string operations
+- Performance optimization for large datasets
+- Advanced pandas techniques and best practices
+- Production-ready data transformation patterns
+
 ---
 
 ## Key Concepts Covered
@@ -184,6 +210,9 @@ String manipulation with DataFrame columns:
 - **String splitting and joining** - Advanced text processing with columns
 - **Column combination** - Merging multiple columns into single columns
 - **Pandas methods** - Using built-in pandas functions for data manipulation
+- **Complex string operations** - Advanced pandas string manipulation techniques
+- **Multi-column transformations** - Coordinating changes across multiple columns
+- **Performance optimization** - Efficient data transformation patterns
 
 ---
 
@@ -223,6 +252,8 @@ python "For loop work #6.py"
 ```bash
 python "Columns in DataFrames/Column skill check #1.py"
 python "Columns in DataFrames/Splitting and Combining Columns.py"
+python "Columns in DataFrames/Splitting and Combining Columns #2.py"
+python "Columns in DataFrames/Splitting and Combining Columns #3.py"
 ```
 
 ---
@@ -243,7 +274,9 @@ python "Columns in DataFrames/Splitting and Combining Columns.py"
 **After mastering loops, move on to DataFrame operations:**
 
 7. [Column Skill Check #1](Columns%20in%20DataFrames/Column%20skill%20check%20%231.py) - DataFrame basics and column operations
-8. [Splitting and Combining Columns](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns.py) - Advanced column manipulation
+8. [Splitting and Combining Columns](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns.py) - Basic column manipulation
+9. [Splitting and Combining Columns #2](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%232.py) - Advanced column transformations
+10. [Splitting and Combining Columns #3](Columns%20in%20DataFrames/Splitting%20and%20Combining%20Columns%20%233.py) - Expert-level techniques
 
 ---
 
