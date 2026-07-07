@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="column work with gemini">
-      <change afterPath="$PROJECT_DIR$/For loop work #7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For loop work #7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While loop work.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While loop work.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
     "Python.Splitting and Combining Columns #2.executor": "Run",
     "Python.Splitting and Combining Columns #3.executor": "Run",
     "Python.Splitting and Combining Columns.executor": "Run",
+    "Python.While loop work.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,7 +129,7 @@
       <workItem from="1780399490099" duration="105000" />
       <workItem from="1780490020229" duration="7457000" />
       <workItem from="1782831909171" duration="3000" />
-      <workItem from="1783452082942" duration="977000" />
+      <workItem from="1783452082942" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -211,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780496973426</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="column work with gemini">
+      <option name="closed" value="true" />
+      <created>1783453068471</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783453068471</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +265,7 @@
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Splitting_and_Combining_Columns__3.coverage" NAME="Splitting and Combining Columns #3 Coverage Results" MODIFIED="1780609788436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
     <SUITE FILE_PATH="coverage/LoopSkillCheck$For_loop_work__3.coverage" NAME="For loop work #3 Coverage Results" MODIFIED="1783452754980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Splitting_and_Combining_Columns.coverage" NAME="Splitting and Combining Columns Coverage Results" MODIFIED="1780491869811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
+    <SUITE FILE_PATH="coverage/LoopSkillCheck$While_loop_work.coverage" NAME="While loop work Coverage Results" MODIFIED="1783453545384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LoopSkillCheck$For_loop_work__7.coverage" NAME="For loop work #7 Coverage Results" MODIFIED="1783452885881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Column_skill_check__1.coverage" NAME="Column skill check #1 Coverage Results" MODIFIED="1780059786572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Splitting_and_Combining_Columns__2.coverage" NAME="Splitting and Combining Columns #2 Coverage Results" MODIFIED="1780496489898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
