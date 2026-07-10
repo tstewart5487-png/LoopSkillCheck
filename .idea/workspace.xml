@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="class and object and method work with gemini">
-      <change beforePath="$PROJECT_DIR$/Class work/Class Work #2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Class work/Class Work #2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class work/Class Work #2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class work/Class Work #2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class work/Class Work #3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class work/Class Work #3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Class Work #1.executor": "Run",
     "Python.Class Work #2.executor": "Run",
+    "Python.Class Work #3.executor": "Run",
     "Python.Column skill check #1.executor": "Run",
     "Python.For loop work #3.executor": "Run",
     "Python.For loop work #5.executor": "Run",
@@ -133,7 +134,7 @@
       <workItem from="1780490020229" duration="7457000" />
       <workItem from="1782831909171" duration="3000" />
       <workItem from="1783452082942" duration="3966000" />
-      <workItem from="1783683977038" duration="3683000" />
+      <workItem from="1783683977038" duration="5718000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -279,7 +280,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783685347640</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783687981766</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1783687981766</updated>
+    </task>
+    <task id="LOCAL-00020" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783687986217</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1783687986217</updated>
+    </task>
+    <task id="LOCAL-00021" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783687991441</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1783687991441</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +349,7 @@
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Splitting_and_Combining_Columns.coverage" NAME="Splitting and Combining Columns Coverage Results" MODIFIED="1780491869811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Columns in DataFrames" />
     <SUITE FILE_PATH="coverage/LoopSkillCheck$For_loop_work__7.coverage" NAME="For loop work #7 Coverage Results" MODIFIED="1783452885881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LoopSkillCheck$Class_Work__2.coverage" NAME="Class Work #2 Coverage Results" MODIFIED="1783687926144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class work" />
+    <SUITE FILE_PATH="coverage/LoopSkillCheck$Class_Work__3.coverage" NAME="Class Work #3 Coverage Results" MODIFIED="1783690765041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class work" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__5.coverage" NAME="For loop work #5 Coverage Results" MODIFIED="1779677705354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$Loop_Work__5.coverage" NAME="Loop Work #5 Coverage Results" MODIFIED="1779627563174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Loop_work__4_md$For_loop_work__6.coverage" NAME="For loop work #6 Coverage Results" MODIFIED="1779717286223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
