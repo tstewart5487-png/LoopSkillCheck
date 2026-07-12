@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="class and object and method work with gemini">
-      <change afterPath="$PROJECT_DIR$/Class work/Class Work #5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class work/Class work #5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class work/Class Work #6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class work/Class Work #6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,40 +49,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Class Work #1.executor": "Run",
-    "Python.Class Work #2.executor": "Run",
-    "Python.Class Work #3.executor": "Run",
-    "Python.Class Work #4.executor": "Run",
-    "Python.Column skill check #1.executor": "Run",
-    "Python.For loop work #3.executor": "Run",
-    "Python.For loop work #5.executor": "Run",
-    "Python.For loop work #6.executor": "Run",
-    "Python.For loop work #7.executor": "Run",
-    "Python.Loop Work #5.executor": "Run",
-    "Python.Splitting and Combining Columns #2.executor": "Run",
-    "Python.Splitting and Combining Columns #3.executor": "Run",
-    "Python.Splitting and Combining Columns.executor": "Run",
-    "Python.While loop work #2.executor": "Run",
-    "Python.While loop work.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/12693/PycharmProjects/LoopSkillCheck",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Class Work #1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class Work #2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class Work #3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class Work #4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Column skill check #1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop work #3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop work #5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop work #6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop work #7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loop Work #5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Splitting and Combining Columns #2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Splitting and Combining Columns #3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Splitting and Combining Columns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While loop work #2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While loop work.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12693/PycharmProjects/LoopSkillCheck&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="For loop work #3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LoopSkillCheck" />
@@ -135,7 +136,10 @@
       <workItem from="1780490020229" duration="7457000" />
       <workItem from="1782831909171" duration="3000" />
       <workItem from="1783452082942" duration="3966000" />
-      <workItem from="1783683977038" duration="10987000" />
+      <workItem from="1783683977038" duration="11185000" />
+      <workItem from="1783705650668" duration="607000" />
+      <workItem from="1783857350063" duration="12000" />
+      <workItem from="1783860183559" duration="1854000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -353,7 +357,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783696840311</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783705536742</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1783705536742</updated>
+    </task>
+    <task id="LOCAL-00029" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783705541178</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783705541178</updated>
+    </task>
+    <task id="LOCAL-00030" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783705545663</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1783705545663</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
