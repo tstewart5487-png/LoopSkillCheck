@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="247ad938-c078-4314-ae02-8fde38c2fed7" name="Changes" comment="class and object and method work with gemini">
-      <change afterPath="$PROJECT_DIR$/Class work/Class Work #6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class work/Class Work #6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class work/Class Work #7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Class work/Class Work #7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class work/Class Work #7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class work/Class Work #7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,7 @@
       <workItem from="1783683977038" duration="11185000" />
       <workItem from="1783705650668" duration="607000" />
       <workItem from="1783857350063" duration="12000" />
-      <workItem from="1783860183559" duration="1854000" />
+      <workItem from="1783860183559" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh start on a Sunday basic practice">
       <option name="closed" value="true" />
@@ -381,7 +380,39 @@
       <option name="project" value="LOCAL" />
       <updated>1783705545663</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783862049877</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1783862049877</updated>
+    </task>
+    <task id="LOCAL-00032" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783862054258</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1783862054258</updated>
+    </task>
+    <task id="LOCAL-00033" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783862085794</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1783862085794</updated>
+    </task>
+    <task id="LOCAL-00034" summary="class and object and method work with gemini">
+      <option name="closed" value="true" />
+      <created>1783862091256</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1783862091256</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
